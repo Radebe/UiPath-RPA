@@ -1,0 +1,45 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "sQuantity&Sequence_12",
+        "address&Sequence_8",
+        "stockUnit&Sequence_11",
+        "newQuantity&Sequence_10",
+        "newStockUnit&Sequence_9",
+        "newAddress&Flowchart_1",
+        "newCellNumber&Flowchart_1",
+        "TestResults&Flowchart_1",
+        "testResult&Flowchart_1",
+        "password&Flowchart_1",
+        "orderUrl&Flowchart_1",
+        "sMinute&Flowchart_1",
+        "sHour&Flowchart_1",
+        "sDay&Flowchart_1",
+        "sMonth&Flowchart_1",
+        "sYear&Flowchart_1",
+        "sDate&Flowchart_1",
+        "emailAddress&Flowchart_1",
+        "url&Flowchart_1",
+        "InputOrderDetails&Flowchart_1",
+        "InputOrders&Flowchart_1",
+        "InputProducts&Flowchart_1",
+        "InputCustomers&Flowchart_1",
+        "CustomerResult&Flowchart_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
